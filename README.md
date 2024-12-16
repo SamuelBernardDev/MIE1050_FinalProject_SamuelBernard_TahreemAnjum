@@ -17,8 +17,7 @@ Our proposed solution incorporates various sensors such as load cells, ultrasoni
 
 ![System Overview](figure1.png).
 
-- Sensors will accurately:
-  - Label snow accumulation
+Sensors will accurately label snow accumulation
 
 ## Code and Scripts
 
