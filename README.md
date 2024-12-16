@@ -13,7 +13,10 @@ Our proposed solution incorporates various sensors such as load cells, ultrasoni
 
 ### System Setup
 
-- The system is simulated at a smaller scale using a **small plastic plate** to mimic solar panels as shown in Figure .
+- The system is simulated at a smaller scale using a **small plastic plate** to mimic solar panels as shown in
+
+![System Overview](figure1.png).
+
 - Sensors will accurately:
   - Label snow accumulation
 
