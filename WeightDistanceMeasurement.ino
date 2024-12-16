@@ -3,7 +3,7 @@
 // Define pins for analog sensor
 const int distanceSensorRaw[] = {A0};
 float distanceArray[1];
-const int numbAverageVoltages = 50;
+const int numbAverageVoltages = 100;
 const float operatingVoltage = 5.0;
 
 // Define pins for Load Cell
@@ -53,18 +53,18 @@ void loop() {
   }
 }
 
-void readDistance(int sensor) { //Adapted from robojax.com
+void readDistance(int analogPin) { //Adapted from robojax.com
   float temporaryVoltage = 0; // Temporary average value
   for (int i = 0; i < numbAverageVoltages; i++) {
-    int sensorValue = analogRead(distanceSensorRaw[sensor]);
+    int rawOutput = analogRead(distanceSensorRaw[analogPin]);
     delay(1);
 
-    temporaryVoltage += sensorValue * (operatingVoltage / 1023.0); // Convert to voltage
+    temporaryVoltage += rawOutput * (operatingVoltage / 1023.0); // Convert to voltage
   }
   temporaryVoltage /= numbAverageVoltages;
 
   // Polynomial distance calculation
-  distanceArray[sensor] = (33.9 + -69.5 * (temporaryVoltage) +
+  distanceArray[analogPin] = (33.9 + -69.5 * (temporaryVoltage) +
                      62.3 * pow(temporaryVoltage, 2) +
                      -25.4 * pow(temporaryVoltage, 3) +
                      3.83 * pow(temporaryVoltage, 4))*10.0;
