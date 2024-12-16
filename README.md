@@ -13,7 +13,7 @@ Our proposed solution incorporates various sensors such as load cells, ultrasoni
 
 ### System Setup
 
-- The system is simulated at a smaller scale using a **small plastic plane** to mimic solar panels as shown in Figure .
+- The system is simulated at a smaller scale using a **small plastic plate** to mimic solar panels as shown in Figure .
 - Sensors will accurately:
   - Label snow accumulation
 
@@ -21,7 +21,7 @@ Our proposed solution incorporates various sensors such as load cells, ultrasoni
 
 This project involves two Arduino scripts and a Python script which are provided.
 
-#### **`weight_distance_measurement.ino`**
+#### **`WeightDistanceMeasurement.ino`**
 
 - **Purpose**: Handles data from a load cell and infrared distance sensor using code adapted from Ahmad Shamshiri for robojax.com on July 09, 2020 in Ajax, Ontario, Canada.
 - **Hardware**:
@@ -30,7 +30,7 @@ This project involves two Arduino scripts and a Python script which are provided
 - **PORT**:
   - This script communicates through **COM4**.
 
-#### **`temp_humidity_measurement.ino`**
+#### **`TemperatureHumidityMeasurement.ino`**
 
 - **Purpose**: Handles temperature and humidity data using a BME680 sensor using a script heavily inspired by Assignment 1 MIE1050 from University of Toronto.
 - **Hardware**:
@@ -45,7 +45,7 @@ This project involves two Arduino scripts and a Python script which are provided
 
 - **Purpose**: Processes data collected from the sensors and uses a **Random Forest classifier** to predict snow accumulation.
 - **Requirements**:
-  - A **dummy dataset** is provided for training the Random Forest model.
+  - A **dummy dataset** is provided for training the Random Forest model called **snowData.csv**.
   - The dataset includes:
     - Temperature
     - Relative humidity (%)
