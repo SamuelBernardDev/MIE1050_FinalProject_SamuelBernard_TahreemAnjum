@@ -1,0 +1,202 @@
+Temperature (Celsius),Humidity (%),Distance (mm),Density (kg/mm3),Label
+2,40,5,137,Light Snow
+-15,73,23,140,Light Snow
+0,62,6,92,Light Snow
+-5,42,5,170,Light Snow
+1,50,30,190,Light Snow
+-16,67,5,96,Light Snow
+-6,58,29,52,Light Snow
+-6,67,23,156,Light Snow
+-5,73,20,111,Light Snow
+-8,79,12,97,Light Snow
+-9,62,12,74,Light Snow
+-16,52,29,98,Light Snow
+-19,67,27,189,Light Snow
+-7,63,21,51,Light Snow
+0,79,12,107,Light Snow
+-18,79,23,61,Light Snow
+-5,41,3,143,Light Snow
+3,73,21,140,Light Snow
+-1,69,13,163,Light Snow
+-9,77,17,100,Light Snow
+-13,76,27,152,Light Snow
+-5,49,17,181,Light Snow
+1,40,25,79,Light Snow
+-19,41,6,61,Light Snow
+-8,60,7,105,Light Snow
+-11,45,30,68,Light Snow
+-17,66,8,95,Light Snow
+2,71,9,99,Light Snow
+-12,60,12,72,Light Snow
+-6,63,21,145,Light Snow
+-11,69,16,54,Light Snow
+-1,58,5,113,Light Snow
+-4,60,27,152,Light Snow
+-1,63,25,177,Light Snow
+-11,41,29,78,Light Snow
+-14,80,12,85,Light Snow
+-9,40,11,170,Light Snow
+0,52,19,189,Light Snow
+-12,72,22,63,Light Snow
+-13,67,26,138,Light Snow
+-4,84,84,277,Heavy Snow
+-5,77,60,300,Heavy Snow
+-2,89,31,328,Heavy Snow
+-15,74,76,232,Heavy Snow
+-14,85,38,394,Heavy Snow
+-1,90,62,319,Heavy Snow
+-8,79,90,256,Heavy Snow
+-17,84,94,191,Heavy Snow
+-1,71,46,333,Heavy Snow
+-17,81,33,279,Heavy Snow
+-5,83,51,327,Heavy Snow
+-15,65,78,328,Heavy Snow
+-4,86,31,252,Heavy Snow
+-4,61,64,253,Heavy Snow
+-15,60,58,365,Heavy Snow
+-11,60,69,395,Heavy Snow
+-18,70,87,253,Heavy Snow
+-15,88,44,363,Heavy Snow
+-16,65,34,205,Heavy Snow
+-2,79,33,333,Heavy Snow
+-5,87,100,215,Heavy Snow
+-14,87,62,285,Heavy Snow
+-20,70,62,194,Heavy Snow
+-10,62,99,343,Heavy Snow
+-10,65,71,344,Heavy Snow
+-15,66,42,388,Heavy Snow
+-12,62,35,339,Heavy Snow
+-5,79,32,395,Heavy Snow
+-10,87,34,243,Heavy Snow
+-17,77,74,277,Heavy Snow
+-13,90,70,259,Heavy Snow
+-9,80,58,301,Heavy Snow
+-2,86,47,370,Heavy Snow
+-7,69,65,261,Heavy Snow
+-10,64,74,380,Heavy Snow
+-3,84,68,239,Heavy Snow
+-14,71,42,213,Heavy Snow
+-17,66,98,306,Heavy Snow
+-5,89,88,263,Heavy Snow
+-1,78,94,336,Heavy Snow
+-2,93,18,405,Wet Snow
+-1,93,19,432,Wet Snow
+-1,91,9,693,Wet Snow
+2,86,25,732,Wet Snow
+3,96,24,580,Wet Snow
+1,96,25,605,Wet Snow
+1,89,20,468,Wet Snow
+-1,87,6,665,Wet Snow
+0,94,17,644,Wet Snow
+-2,97,25,447,Wet Snow
+1,83,22,577,Wet Snow
+2,80,21,465,Wet Snow
+3,94,2,502,Wet Snow
+2,89,5,510,Wet Snow
+3,85,21,519,Wet Snow
+2,98,16,602,Wet Snow
+0,96,18,786,Wet Snow
+-2,96,15,715,Wet Snow
+3,97,21,627,Wet Snow
+2,90,10,475,Wet Snow
+2,85,3,573,Wet Snow
+1,98,10,777,Wet Snow
+1,80,18,566,Wet Snow
+3,97,1,626,Wet Snow
+2,85,18,473,Wet Snow
+-1,98,24,645,Wet Snow
+-1,96,6,443,Wet Snow
+-1,93,14,747,Wet Snow
+0,94,7,598,Wet Snow
+3,83,16,638,Wet Snow
+-2,90,12,638,Wet Snow
+-2,99,2,685,Wet Snow
+0,82,11,521,Wet Snow
+3,85,13,629,Wet Snow
+0,90,11,731,Wet Snow
+0,88,14,548,Wet Snow
+-1,94,10,775,Wet Snow
+1,93,19,748,Wet Snow
+-1,82,15,456,Wet Snow
+-2,93,21,746,Wet Snow
+-3,93,0,4,No Snow
+-2,46,1,8,No Snow
+38,100,0,6,No Snow
+-19,11,1,11,No Snow
+5,49,0,9,No Snow
+3,67,1,9,No Snow
+15,60,1,5,No Snow
+-11,31,1,9,No Snow
+28,93,0,14,No Snow
+29,51,0,9,No Snow
+23,24,1,4,No Snow
+24,53,1,9,No Snow
+29,46,0,2,No Snow
+-16,75,1,0,No Snow
+-3,33,0,9,No Snow
+-4,20,1,1,No Snow
+8,62,0,3,No Snow
+9,55,0,2,No Snow
+-1,72,1,4,No Snow
+-1,39,0,8,No Snow
+4,59,0,11,No Snow
+-9,38,0,14,No Snow
+21,40,1,4,No Snow
+2,50,0,15,No Snow
+-18,72,1,15,No Snow
+36,22,1,2,No Snow
+35,11,0,5,No Snow
+40,69,0,6,No Snow
+-1,65,0,2,No Snow
+11,64,0,11,No Snow
+4,78,1,3,No Snow
+7,91,1,11,No Snow
+33,20,1,1,No Snow
+3,30,1,6,No Snow
+-9,57,0,11,No Snow
+15,10,0,6,No Snow
+39,80,1,9,No Snow
+-19,39,1,9,No Snow
+0,86,1,11,No Snow
+21,41,0,1,No Snow
+40,76,7,1056,Rain
+7,53,6,909,Rain
+7,60,2,902,Rain
+29,79,4,951,Rain
+23,97,2,926,Rain
+13,98,10,1027,Rain
+14,88,11,929,Rain
+37,69,11,1087,Rain
+37,83,13,1024,Rain
+4,88,12,996,Rain
+5,58,10,926,Rain
+9,95,1,1019,Rain
+26,91,4,1078,Rain
+15,76,7,999,Rain
+30,54,4,913,Rain
+5,63,13,912,Rain
+21,57,2,981,Rain
+34,72,10,944,Rain
+4,67,3,991,Rain
+8,54,13,916,Rain
+39,52,4,963,Rain
+36,88,11,1021,Rain
+29,61,11,1061,Rain
+26,90,4,916,Rain
+37,74,15,964,Rain
+36,91,11,1056,Rain
+21,56,12,961,Rain
+40,89,6,1064,Rain
+30,99,3,1067,Rain
+7,85,4,1004,Rain
+14,79,13,1029,Rain
+25,67,9,1031,Rain
+26,70,6,949,Rain
+26,75,6,979,Rain
+14,91,8,952,Rain
+31,72,6,910,Rain
+30,88,13,1057,Rain
+15,66,2,1018,Rain
+17,72,1,996,Rain
+11,92,11,1027,Rain
+19,56,9,1083,Rain
